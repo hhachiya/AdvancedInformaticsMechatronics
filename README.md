@@ -17,7 +17,7 @@
 -開催日：木曜日曜日  
 -時限：4時限  
 -教室：A203  
--[発表スケジュール(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2018schedule_schedule.pdf)  
+-[発表スケジュール＆成績評価方法(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2018schedule_schedule.pdf)  
 -[大ゼミ発表者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2018schedule_presenter.pdf)  
 -[大ゼミ聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2018schedule_audience.pdf)  
 -[M2中間聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2018schedule_M2_presenter.pdf)  
