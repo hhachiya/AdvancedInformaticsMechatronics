@@ -14,7 +14,7 @@
 
 ***  
 ## 後期  
--開催日：木曜日曜日  
+-開催日：木曜日 
 -時限：4時限  
 -教室：A203  
 -[発表スケジュール＆成績評価方法(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2018schedule_schedule.pdf)  
