@@ -4,7 +4,7 @@
 ## 前期  
 -開催日：木曜日  
 -時限：3時限  
--教室：B104  
+-教室：A104  
 -[発表スケジュール(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_schedule.pdf)  
 -[大ゼミ発表者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M1_presenter.pdf)  
 -[大ゼミ聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_audience.pdf)  
