@@ -1,5 +1,5 @@
 ﻿# 先進情報処理メカトロニクスクラスタ大ゼミ　2019年度  
-<!--
+
 ***  
 ## 前期  
 -開催日：木曜日  
@@ -10,7 +10,7 @@
 -[大ゼミ聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_audience.pdf)  
 -[M2中間聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M2_presenter.pdf)  
 -[質問票原紙(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/questionnaire.pdf)　＊：発表者は聴講者数準備すること  
--->
+
 
 <!--
 ***  
