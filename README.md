@@ -6,8 +6,8 @@
 -時限：3時限  
 -教室：A104  
 -[発表スケジュール(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_schedule.pdf)  
--[大ゼミ発表者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M1_presenter.pdf)  
--[大ゼミ聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_audience.pdf)  
+-[M1大ゼミ発表者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M1_presenter.pdf)  
+-[M1・M2大ゼミ聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_audience.pdf)  
 -[M2中間聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M2_presenter.pdf)  
 -[質問票原紙(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/questionnaire.pdf)　＊：発表者は聴講者数準備すること  
 
