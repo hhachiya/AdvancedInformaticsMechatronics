@@ -5,12 +5,12 @@
 -開催日：木曜日  
 -時限：3時限  
 -教室：A104  
--[発表スケジュール(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_schedule.pdf)
--[M1大ゼミ発表者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M1_presenter.pdf)
--[M1・M2大ゼミ聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_audience.pdf)
+-[発表スケジュール(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_schedule.pdf)  
+-[M1大ゼミ発表者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M1_presenter.pdf)  
+-[M1・M2大ゼミ聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_audience.pdf)  
 -[質問票原紙(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/questionnaire.pdf)　＊：発表者は聴講者数(M1分）準備すること  
--[M1発表者の回答書作成について(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_questionnaire.pdf)
--[M2中間聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M2_presenter.pdf)
+-[M1発表者の回答書作成について(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_questionnaire.pdf)  
+-[M2中間聴講者向け資料(PDF)](https://github.com/hhachiya/AdvancedInformaticsMechatronics/blob/master/2019schedule_M2_presenter.pdf)  
 
 <!--
 ***  
